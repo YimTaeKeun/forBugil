@@ -1,4 +1,4 @@
-Version:3.9.0.0
+Version:4.0.0.0
 //limit: true: 제한, false: 제한 해제
 limit: true
-last:2020년 10월 10일(긴급 업데이트: 본문 다운로드 오류 수정)
+last:2020년 11월 11일

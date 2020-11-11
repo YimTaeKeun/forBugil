@@ -1,4 +1,4 @@
 Version:4.0.0.0
 //limit: true: 제한, false: 제한 해제
 limit: true
-last:2020년 11월 11일
+last:2020년 11월 11일 (대규모 업데이트)

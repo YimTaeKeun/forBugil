@@ -1,4 +1,4 @@
 Version:4.0.0.1
 //limit: true: 제한, false: 제한 해제
 limit: true
-last:2020년 11월 20일 (버그 )
+last:2020년 11월 20일 (버그 수정)
